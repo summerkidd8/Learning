@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 This is a test 
 Hello world
 test a new branch
-=======
 
-Hello world
->>>>>>> parent of d97f315... The third revise
